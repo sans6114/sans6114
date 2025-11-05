@@ -11,19 +11,19 @@
 
 ###
 
-<p align="left">My name is Santiago, and I'm an 18-year-old developer from Argentina.</p>
+<p align="left">Mi nombre es santiago, tengo 18 años y soy estudiante de licenciatura en sistemas en la Universidad Nacional De La Plata, Argentina.</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">Sobre mi</h2>
 
 ###
 
-<p align="left">✨ Creating code since I was 16, when I wrote my first line of code and discovered the incredible world of development.<br>📚 I'm currently learning: always something new! Whether it's diving into web frameworks or finding solutions for my code problems, I'm constantly growing. Right now, I'm exploring the frontend world, specifically the JavaScript ecosystem.<br>🎯 Goals: tackle challenging projects, push my limits every day, and bring my passion for creativity and coding into innovative solutions. I also aim to take my athletic performance to the next level in every competition.<br>🎲 Fun fact: Besides being a developer, I’m a high-performance athlete. Discipline and effort define me, but my focus is on enjoying the journey.<br><br>💻 Like what you see? Let’s collaborate—I love challenges and setting new goals!</p>
+<p align="left">✨ Me apasiona el mundo de la tecnologia desde los 16, me encanta el mundo de la programación y ahora mismo me encuentro en pleno aprendisaje. Espero que algun repositorio o ejercicio hecho sea de ayuda.</p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Conozco sobre</h2>
 
 ###
 
